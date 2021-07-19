@@ -1,0 +1,19 @@
+.py-1-5{
+    padding-top: 0.6rem!important;
+    padding-bottom: 0.6rem!important;
+}
+
+.selectedButton:focus{
+    background-color: white!important;
+    font-weight: 600;
+    box-shadow: none!important;
+}
+
+.selectedButton:hover{
+    background-color: #E2E4E6;
+    color: #813CB0;
+}
+
+.searchInput{
+    width:400px;
+}
